@@ -1,0 +1,19 @@
+# Chrome Extension Private Key (IMPORTANT: Keep this secure!)
+claude_theme.pem
+
+# Packaged extension
+*.crx
+*.zip
+
+# Node modules (if you add build tools later)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
