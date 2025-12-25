@@ -139,6 +139,8 @@ MIT License - feel free to use and modify as you wish!
 
 ## 📸 Screenshots
 
+![newtab](./screenshots/newtab.png) 
+
 ### New Tab Page
 A clean, minimal new tab page with search and quick links.
 
