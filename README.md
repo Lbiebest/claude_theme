@@ -5,6 +5,9 @@ A beautiful Chrome extension that brings Claude.ai's elegant design system to yo
 ![Version](https://img.shields.io/badge/version-1.1.0-orange)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
+
+[README](README.md) | [README_CN](README_CN.md)
+
 ## ✨ Features
 
 - **🎨 Claude-Themed New Tab Page**

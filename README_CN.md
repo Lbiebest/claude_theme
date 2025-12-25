@@ -5,6 +5,9 @@
 ![Version](https://img.shields.io/badge/version-1.1.0-orange)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
+
+[README](README.md) | [README_CN](README_CN.md)
+
 ## ✨ 特性
 
 - **🎨 Claude 主题新标签页**
